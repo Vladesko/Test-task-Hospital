@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C Shapr\\Projects\\ASP Projects\\Hospital\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C1199B-0C88-4DCF-B625-FC7D59A31EC3}|Hospitals.Persistance\\Hospitals.Persistance.csproj|d:\\c shapr\\projects\\asp projects\\hospital\\hospitals.persistance\\repositories\\doctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4C1199B-0C88-4DCF-B625-FC7D59A31EC3}|Hospitals.Persistance\\Hospitals.Persistance.csproj|solutionrelative:hospitals.persistance\\repositories\\doctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C1199B-0C88-4DCF-B625-FC7D59A31EC3}|Hospitals.Persistance\\Hospitals.Persistance.csproj|d:\\c shapr\\projects\\asp projects\\hospital\\hospitals.persistance\\database\\hospitalsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4C1199B-0C88-4DCF-B625-FC7D59A31EC3}|Hospitals.Persistance\\Hospitals.Persistance.csproj|solutionrelative:hospitals.persistance\\database\\hospitalsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB529BBC-7447-4F3B-B630-3388959ECA9A}|Hospitals.WebApi\\Hospitals.WebApi.csproj|d:\\c shapr\\projects\\asp projects\\hospital\\hospitals.webapi\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB529BBC-7447-4F3B-B630-3388959ECA9A}|Hospitals.WebApi\\Hospitals.WebApi.csproj|solutionrelative:hospitals.webapi\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB529BBC-7447-4F3B-B630-3388959ECA9A}|Hospitals.WebApi\\Hospitals.WebApi.csproj|d:\\c shapr\\projects\\asp projects\\hospital\\hospitals.webapi\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB529BBC-7447-4F3B-B630-3388959ECA9A}|Hospitals.WebApi\\Hospitals.WebApi.csproj|solutionrelative:hospitals.webapi\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C1199B-0C88-4DCF-B625-FC7D59A31EC3}|Hospitals.Persistance\\Hospitals.Persistance.csproj|d:\\c shapr\\projects\\asp projects\\hospital\\hospitals.persistance\\repositories\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4C1199B-0C88-4DCF-B625-FC7D59A31EC3}|Hospitals.Persistance\\Hospitals.Persistance.csproj|solutionrelative:hospitals.persistance\\repositories\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A70DCA-A597-45BA-B61D-54780F2638D0}|Hospitals.Application\\Hospitals.Application.csproj|d:\\c shapr\\projects\\asp projects\\hospital\\hospitals.application\\services\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A70DCA-A597-45BA-B61D-54780F2638D0}|Hospitals.Application\\Hospitals.Application.csproj|solutionrelative:hospitals.application\\services\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A70DCA-A597-45BA-B61D-54780F2638D0}|Hospitals.Application\\Hospitals.Application.csproj|d:\\c shapr\\projects\\asp projects\\hospital\\hospitals.application\\interfaces\\patientsinterface\\ipatientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A70DCA-A597-45BA-B61D-54780F2638D0}|Hospitals.Application\\Hospitals.Application.csproj|solutionrelative:hospitals.application\\interfaces\\patientsinterface\\ipatientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A70DCA-A597-45BA-B61D-54780F2638D0}|Hospitals.Application\\Hospitals.Application.csproj|d:\\c shapr\\projects\\asp projects\\hospital\\hospitals.application\\interfaces\\patientsinterface\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A70DCA-A597-45BA-B61D-54780F2638D0}|Hospitals.Application\\Hospitals.Application.csproj|solutionrelative:hospitals.application\\interfaces\\patientsinterface\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A70DCA-A597-45BA-B61D-54780F2638D0}|Hospitals.Application\\Hospitals.Application.csproj|d:\\c shapr\\projects\\asp projects\\hospital\\hospitals.application\\services\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A70DCA-A597-45BA-B61D-54780F2638D0}|Hospitals.Application\\Hospitals.Application.csproj|solutionrelative:hospitals.application\\services\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A70DCA-A597-45BA-B61D-54780F2638D0}|Hospitals.Application\\Hospitals.Application.csproj|d:\\c shapr\\projects\\asp projects\\hospital\\hospitals.application\\interfaces\\doctorsintrfaces\\idoctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A70DCA-A597-45BA-B61D-54780F2638D0}|Hospitals.Application\\Hospitals.Application.csproj|solutionrelative:hospitals.application\\interfaces\\doctorsintrfaces\\idoctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A70DCA-A597-45BA-B61D-54780F2638D0}|Hospitals.Application\\Hospitals.Application.csproj|d:\\c shapr\\projects\\asp projects\\hospital\\hospitals.application\\interfaces\\doctorsintrfaces\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A70DCA-A597-45BA-B61D-54780F2638D0}|Hospitals.Application\\Hospitals.Application.csproj|solutionrelative:hospitals.application\\interfaces\\doctorsintrfaces\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB529BBC-7447-4F3B-B630-3388959ECA9A}|Hospitals.WebApi\\Hospitals.WebApi.csproj|d:\\c shapr\\projects\\asp projects\\hospital\\hospitals.webapi\\common\\mapping\\doctormapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB529BBC-7447-4F3B-B630-3388959ECA9A}|Hospitals.WebApi\\Hospitals.WebApi.csproj|solutionrelative:hospitals.webapi\\common\\mapping\\doctormapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB529BBC-7447-4F3B-B630-3388959ECA9A}|Hospitals.WebApi\\Hospitals.WebApi.csproj|d:\\c shapr\\projects\\asp projects\\hospital\\hospitals.webapi\\common\\interfaces\\idoctormapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB529BBC-7447-4F3B-B630-3388959ECA9A}|Hospitals.WebApi\\Hospitals.WebApi.csproj|solutionrelative:hospitals.webapi\\common\\interfaces\\idoctormapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A70DCA-A597-45BA-B61D-54780F2638D0}|Hospitals.Application\\Hospitals.Application.csproj|d:\\c shapr\\projects\\asp projects\\hospital\\hospitals.application\\models\\doctors\\getdoctorsviewmodelquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A70DCA-A597-45BA-B61D-54780F2638D0}|Hospitals.Application\\Hospitals.Application.csproj|solutionrelative:hospitals.application\\models\\doctors\\getdoctorsviewmodelquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB529BBC-7447-4F3B-B630-3388959ECA9A}|Hospitals.WebApi\\Hospitals.WebApi.csproj|d:\\c shapr\\projects\\asp projects\\hospital\\hospitals.webapi\\models\\doctors\\getdoctorsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB529BBC-7447-4F3B-B630-3388959ECA9A}|Hospitals.WebApi\\Hospitals.WebApi.csproj|solutionrelative:hospitals.webapi\\models\\doctors\\getdoctorsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB529BBC-7447-4F3B-B630-3388959ECA9A}|Hospitals.WebApi\\Hospitals.WebApi.csproj|d:\\c shapr\\projects\\asp projects\\hospital\\hospitals.webapi\\common\\middleware\\customexceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB529BBC-7447-4F3B-B630-3388959ECA9A}|Hospitals.WebApi\\Hospitals.WebApi.csproj|solutionrelative:hospitals.webapi\\common\\middleware\\customexceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HospitalsDbContext.cs",
+              "DocumentMoniker": "D:\\C Shapr\\Projects\\ASP Projects\\Hospital\\Hospitals.Persistance\\Database\\HospitalsDbContext.cs",
+              "RelativeDocumentMoniker": "Hospitals.Persistance\\Database\\HospitalsDbContext.cs",
+              "ToolTip": "D:\\C Shapr\\Projects\\ASP Projects\\Hospital\\Hospitals.Persistance\\Database\\HospitalsDbContext.cs",
+              "RelativeToolTip": "Hospitals.Persistance\\Database\\HospitalsDbContext.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T20:19:10.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PatientsController.cs",
+              "DocumentMoniker": "D:\\C Shapr\\Projects\\ASP Projects\\Hospital\\Hospitals.WebApi\\Controllers\\PatientsController.cs",
+              "RelativeDocumentMoniker": "Hospitals.WebApi\\Controllers\\PatientsController.cs",
+              "ToolTip": "D:\\C Shapr\\Projects\\ASP Projects\\Hospital\\Hospitals.WebApi\\Controllers\\PatientsController.cs",
+              "RelativeToolTip": "Hospitals.WebApi\\Controllers\\PatientsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T20:17:01.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PatientService.cs",
+              "DocumentMoniker": "D:\\C Shapr\\Projects\\ASP Projects\\Hospital\\Hospitals.Application\\Services\\PatientService.cs",
+              "RelativeDocumentMoniker": "Hospitals.Application\\Services\\PatientService.cs",
+              "ToolTip": "D:\\C Shapr\\Projects\\ASP Projects\\Hospital\\Hospitals.Application\\Services\\PatientService.cs",
+              "RelativeToolTip": "Hospitals.Application\\Services\\PatientService.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwDQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T20:06:41.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPatientService.cs",
+              "DocumentMoniker": "D:\\C Shapr\\Projects\\ASP Projects\\Hospital\\Hospitals.Application\\Interfaces\\PatientsInterface\\IPatientService.cs",
+              "RelativeDocumentMoniker": "Hospitals.Application\\Interfaces\\PatientsInterface\\IPatientService.cs",
+              "ToolTip": "D:\\C Shapr\\Projects\\ASP Projects\\Hospital\\Hospitals.Application\\Interfaces\\PatientsInterface\\IPatientService.cs",
+              "RelativeToolTip": "Hospitals.Application\\Interfaces\\PatientsInterface\\IPatientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T20:05:11.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IPatientRepository.cs",
+              "DocumentMoniker": "D:\\C Shapr\\Projects\\ASP Projects\\Hospital\\Hospitals.Application\\Interfaces\\PatientsInterface\\IPatientRepository.cs",
+              "RelativeDocumentMoniker": "Hospitals.Application\\Interfaces\\PatientsInterface\\IPatientRepository.cs",
+              "ToolTip": "D:\\C Shapr\\Projects\\ASP Projects\\Hospital\\Hospitals.Application\\Interfaces\\PatientsInterface\\IPatientRepository.cs",
+              "RelativeToolTip": "Hospitals.Application\\Interfaces\\PatientsInterface\\IPatientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T20:05:08.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DoctorsController.cs",
+              "DocumentMoniker": "D:\\C Shapr\\Projects\\ASP Projects\\Hospital\\Hospitals.WebApi\\Controllers\\DoctorsController.cs",
+              "RelativeDocumentMoniker": "Hospitals.WebApi\\Controllers\\DoctorsController.cs",
+              "ToolTip": "D:\\C Shapr\\Projects\\ASP Projects\\Hospital\\Hospitals.WebApi\\Controllers\\DoctorsController.cs",
+              "RelativeToolTip": "Hospitals.WebApi\\Controllers\\DoctorsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T19:59:22.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PatientRepository.cs",
+              "DocumentMoniker": "D:\\C Shapr\\Projects\\ASP Projects\\Hospital\\Hospitals.Persistance\\Repositories\\PatientRepository.cs",
+              "RelativeDocumentMoniker": "Hospitals.Persistance\\Repositories\\PatientRepository.cs",
+              "ToolTip": "D:\\C Shapr\\Projects\\ASP Projects\\Hospital\\Hospitals.Persistance\\Repositories\\PatientRepository.cs",
+              "RelativeToolTip": "Hospitals.Persistance\\Repositories\\PatientRepository.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAA3wFUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T19:54:40.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoctorRepository.cs",
+              "DocumentMoniker": "D:\\C Shapr\\Projects\\ASP Projects\\Hospital\\Hospitals.Persistance\\Repositories\\DoctorRepository.cs",
+              "RelativeDocumentMoniker": "Hospitals.Persistance\\Repositories\\DoctorRepository.cs",
+              "ToolTip": "D:\\C Shapr\\Projects\\ASP Projects\\Hospital\\Hospitals.Persistance\\Repositories\\DoctorRepository.cs",
+              "RelativeToolTip": "Hospitals.Persistance\\Repositories\\DoctorRepository.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAYwGgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T19:54:11.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DoctorService.cs",
+              "DocumentMoniker": "D:\\C Shapr\\Projects\\ASP Projects\\Hospital\\Hospitals.Application\\Services\\DoctorService.cs",
+              "RelativeDocumentMoniker": "Hospitals.Application\\Services\\DoctorService.cs",
+              "ToolTip": "D:\\C Shapr\\Projects\\ASP Projects\\Hospital\\Hospitals.Application\\Services\\DoctorService.cs",
+              "RelativeToolTip": "Hospitals.Application\\Services\\DoctorService.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwCoAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T19:53:26.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IDoctorService.cs",
+              "DocumentMoniker": "D:\\C Shapr\\Projects\\ASP Projects\\Hospital\\Hospitals.Application\\Interfaces\\DoctorsIntrfaces\\IDoctorService.cs",
+              "RelativeDocumentMoniker": "Hospitals.Application\\Interfaces\\DoctorsIntrfaces\\IDoctorService.cs",
+              "ToolTip": "D:\\C Shapr\\Projects\\ASP Projects\\Hospital\\Hospitals.Application\\Interfaces\\DoctorsIntrfaces\\IDoctorService.cs",
+              "RelativeToolTip": "Hospitals.Application\\Interfaces\\DoctorsIntrfaces\\IDoctorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T19:52:50.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IDoctorRepository.cs",
+              "DocumentMoniker": "D:\\C Shapr\\Projects\\ASP Projects\\Hospital\\Hospitals.Application\\Interfaces\\DoctorsIntrfaces\\IDoctorRepository.cs",
+              "RelativeDocumentMoniker": "Hospitals.Application\\Interfaces\\DoctorsIntrfaces\\IDoctorRepository.cs",
+              "ToolTip": "D:\\C Shapr\\Projects\\ASP Projects\\Hospital\\Hospitals.Application\\Interfaces\\DoctorsIntrfaces\\IDoctorRepository.cs",
+              "RelativeToolTip": "Hospitals.Application\\Interfaces\\DoctorsIntrfaces\\IDoctorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T19:52:35.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DoctorMapper.cs",
+              "DocumentMoniker": "D:\\C Shapr\\Projects\\ASP Projects\\Hospital\\Hospitals.WebApi\\Common\\Mapping\\DoctorMapper.cs",
+              "RelativeDocumentMoniker": "Hospitals.WebApi\\Common\\Mapping\\DoctorMapper.cs",
+              "ToolTip": "D:\\C Shapr\\Projects\\ASP Projects\\Hospital\\Hospitals.WebApi\\Common\\Mapping\\DoctorMapper.cs",
+              "RelativeToolTip": "Hospitals.WebApi\\Common\\Mapping\\DoctorMapper.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T19:51:44.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GetDoctorsViewModelQuery.cs",
+              "DocumentMoniker": "D:\\C Shapr\\Projects\\ASP Projects\\Hospital\\Hospitals.Application\\Models\\Doctors\\GetDoctorsViewModelQuery.cs",
+              "RelativeDocumentMoniker": "Hospitals.Application\\Models\\Doctors\\GetDoctorsViewModelQuery.cs",
+              "ToolTip": "D:\\C Shapr\\Projects\\ASP Projects\\Hospital\\Hospitals.Application\\Models\\Doctors\\GetDoctorsViewModelQuery.cs",
+              "RelativeToolTip": "Hospitals.Application\\Models\\Doctors\\GetDoctorsViewModelQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T19:47:19.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IDoctorMapper.cs",
+              "DocumentMoniker": "D:\\C Shapr\\Projects\\ASP Projects\\Hospital\\Hospitals.WebApi\\Common\\Interfaces\\IDoctorMapper.cs",
+              "RelativeDocumentMoniker": "Hospitals.WebApi\\Common\\Interfaces\\IDoctorMapper.cs",
+              "ToolTip": "D:\\C Shapr\\Projects\\ASP Projects\\Hospital\\Hospitals.WebApi\\Common\\Interfaces\\IDoctorMapper.cs",
+              "RelativeToolTip": "Hospitals.WebApi\\Common\\Interfaces\\IDoctorMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T19:46:35.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GetDoctorsDto.cs",
+              "DocumentMoniker": "D:\\C Shapr\\Projects\\ASP Projects\\Hospital\\Hospitals.WebApi\\Models\\Doctors\\GetDoctorsDto.cs",
+              "RelativeDocumentMoniker": "Hospitals.WebApi\\Models\\Doctors\\GetDoctorsDto.cs",
+              "ToolTip": "D:\\C Shapr\\Projects\\ASP Projects\\Hospital\\Hospitals.WebApi\\Models\\Doctors\\GetDoctorsDto.cs",
+              "RelativeToolTip": "Hospitals.WebApi\\Models\\Doctors\\GetDoctorsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T19:45:40.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CustomExceptionHandlerMiddleware.cs",
+              "DocumentMoniker": "D:\\C Shapr\\Projects\\ASP Projects\\Hospital\\Hospitals.WebApi\\Common\\Middleware\\CustomExceptionHandlerMiddleware.cs",
+              "RelativeDocumentMoniker": "Hospitals.WebApi\\Common\\Middleware\\CustomExceptionHandlerMiddleware.cs",
+              "ToolTip": "D:\\C Shapr\\Projects\\ASP Projects\\Hospital\\Hospitals.WebApi\\Common\\Middleware\\CustomExceptionHandlerMiddleware.cs",
+              "RelativeToolTip": "Hospitals.WebApi\\Common\\Middleware\\CustomExceptionHandlerMiddleware.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwBQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T18:54:46.189Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

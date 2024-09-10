@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hESMrmEbWNs=",
+  "success": true,
+  "projectFilePath": "D:\\C Shapr\\Projects\\ASP Projects\\Hospital\\Hospitals.Domain\\Hospitals.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\csharpfunctionalextensions\\2.42.5\\csharpfunctionalextensions.2.42.5.nupkg.sha512"
+  ],
+  "logs": []
+}

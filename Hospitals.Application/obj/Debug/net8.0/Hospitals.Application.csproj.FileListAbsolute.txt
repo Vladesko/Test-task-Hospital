@@ -1,0 +1,15 @@
+D:\C Shapr\Projects\ASP Projects\Hospital\Hospitals.Application\bin\Debug\net8.0\Hospitals.Application.deps.json
+D:\C Shapr\Projects\ASP Projects\Hospital\Hospitals.Application\bin\Debug\net8.0\Hospitals.Application.dll
+D:\C Shapr\Projects\ASP Projects\Hospital\Hospitals.Application\bin\Debug\net8.0\Hospitals.Application.pdb
+D:\C Shapr\Projects\ASP Projects\Hospital\Hospitals.Application\bin\Debug\net8.0\Hospitals.Domain.dll
+D:\C Shapr\Projects\ASP Projects\Hospital\Hospitals.Application\bin\Debug\net8.0\Hospitals.Domain.pdb
+D:\C Shapr\Projects\ASP Projects\Hospital\Hospitals.Application\obj\Debug\net8.0\Hospitals.Application.csproj.AssemblyReference.cache
+D:\C Shapr\Projects\ASP Projects\Hospital\Hospitals.Application\obj\Debug\net8.0\Hospitals.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Shapr\Projects\ASP Projects\Hospital\Hospitals.Application\obj\Debug\net8.0\Hospitals.Application.AssemblyInfoInputs.cache
+D:\C Shapr\Projects\ASP Projects\Hospital\Hospitals.Application\obj\Debug\net8.0\Hospitals.Application.AssemblyInfo.cs
+D:\C Shapr\Projects\ASP Projects\Hospital\Hospitals.Application\obj\Debug\net8.0\Hospitals.Application.csproj.CoreCompileInputs.cache
+D:\C Shapr\Projects\ASP Projects\Hospital\Hospitals.Application\obj\Debug\net8.0\Hospital.BC291322.Up2Date
+D:\C Shapr\Projects\ASP Projects\Hospital\Hospitals.Application\obj\Debug\net8.0\Hospitals.Application.dll
+D:\C Shapr\Projects\ASP Projects\Hospital\Hospitals.Application\obj\Debug\net8.0\refint\Hospitals.Application.dll
+D:\C Shapr\Projects\ASP Projects\Hospital\Hospitals.Application\obj\Debug\net8.0\Hospitals.Application.pdb
+D:\C Shapr\Projects\ASP Projects\Hospital\Hospitals.Application\obj\Debug\net8.0\ref\Hospitals.Application.dll

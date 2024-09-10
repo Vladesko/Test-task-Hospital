@@ -1,0 +1,73 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Hospitals.Application/1.0.0": {
+        "dependencies": {
+          "Hospitals.Domain": "1.0.0",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0"
+        },
+        "runtime": {
+          "Hospitals.Application.dll": {}
+        }
+      },
+      "CSharpFunctionalExtensions/2.42.5": {
+        "runtime": {
+          "lib/net6.0/CSharpFunctionalExtensions.dll": {
+            "assemblyVersion": "2.42.5.0",
+            "fileVersion": "2.42.5.0"
+          }
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0": {
+        "runtime": {
+          "lib/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.53103"
+          }
+        }
+      },
+      "Hospitals.Domain/1.0.0": {
+        "dependencies": {
+          "CSharpFunctionalExtensions": "2.42.5"
+        },
+        "runtime": {
+          "Hospitals.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hospitals.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CSharpFunctionalExtensions/2.42.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Do9Q7Nyfx2G4HRt96aB6yoP5Z9ic3jqBHLrf35tULzsWlFoBlkQZT62aXCiv7UmVmF56OUR+a3JoSSs140hfHQ==",
+      "path": "csharpfunctionalextensions/2.42.5",
+      "hashPath": "csharpfunctionalextensions.2.42.5.nupkg.sha512"
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cjWrLkJXK0rs4zofsK4bSdg+jhDLTaxrkXu4gS6Y7MAlCvRyNNgwY/lJi5RDlQOnSZweHqoyvgvbdvQsRIW+hg==",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/8.0.0",
+      "hashPath": "microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+    },
+    "Hospitals.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

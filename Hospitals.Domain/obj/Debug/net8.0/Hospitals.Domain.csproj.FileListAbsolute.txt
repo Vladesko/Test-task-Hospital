@@ -1,0 +1,12 @@
+D:\C Shapr\Projects\ASP Projects\Hospital\Hospitals.Domain\bin\Debug\net8.0\Hospitals.Domain.deps.json
+D:\C Shapr\Projects\ASP Projects\Hospital\Hospitals.Domain\bin\Debug\net8.0\Hospitals.Domain.dll
+D:\C Shapr\Projects\ASP Projects\Hospital\Hospitals.Domain\bin\Debug\net8.0\Hospitals.Domain.pdb
+D:\C Shapr\Projects\ASP Projects\Hospital\Hospitals.Domain\obj\Debug\net8.0\Hospitals.Domain.csproj.AssemblyReference.cache
+D:\C Shapr\Projects\ASP Projects\Hospital\Hospitals.Domain\obj\Debug\net8.0\Hospitals.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Shapr\Projects\ASP Projects\Hospital\Hospitals.Domain\obj\Debug\net8.0\Hospitals.Domain.AssemblyInfoInputs.cache
+D:\C Shapr\Projects\ASP Projects\Hospital\Hospitals.Domain\obj\Debug\net8.0\Hospitals.Domain.AssemblyInfo.cs
+D:\C Shapr\Projects\ASP Projects\Hospital\Hospitals.Domain\obj\Debug\net8.0\Hospitals.Domain.csproj.CoreCompileInputs.cache
+D:\C Shapr\Projects\ASP Projects\Hospital\Hospitals.Domain\obj\Debug\net8.0\Hospitals.Domain.dll
+D:\C Shapr\Projects\ASP Projects\Hospital\Hospitals.Domain\obj\Debug\net8.0\refint\Hospitals.Domain.dll
+D:\C Shapr\Projects\ASP Projects\Hospital\Hospitals.Domain\obj\Debug\net8.0\Hospitals.Domain.pdb
+D:\C Shapr\Projects\ASP Projects\Hospital\Hospitals.Domain\obj\Debug\net8.0\ref\Hospitals.Domain.dll

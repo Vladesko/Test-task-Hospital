@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2bWW9ijyYG0=",
+  "success": true,
+  "projectFilePath": "D:\\C Shapr\\Projects\\ASP Projects\\Hospital\\Hospitals.Application\\Hospitals.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\csharpfunctionalextensions\\2.42.5\\csharpfunctionalextensions.2.42.5.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

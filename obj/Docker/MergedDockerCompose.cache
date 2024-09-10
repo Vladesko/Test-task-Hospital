@@ -1,0 +1,61 @@
+name: dockercompose7714951822859740336
+services:
+  hospitaldb:
+    container_name: db-sql-server
+    environment:
+      ACCEPT_EULA: "Y"
+      MSSQL_SA_PASSWORD: P@ssword135
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    networks:
+      hospitalapp: null
+    ports:
+      - mode: ingress
+        target: 1433
+        published: "8002"
+        protocol: tcp
+  hospitals.webapi:
+    build:
+      context: D:\C Shapr\Projects\ASP Projects\Hospital
+      dockerfile: Hospitals.WebApi/Dockerfile
+    container_name: Hospital-app
+    depends_on:
+      hospitaldb:
+        condition: service_started
+        required: true
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTP_PORTS: "8080"
+      ASPNETCORE_HTTPS_PORTS: "8081"
+      DB_HOST: hospitaldb
+      DB_NAME: HospitalDatabase
+      DB_SA_PASSWORD: P@ssword135
+    image: hospitalswebapi
+    networks:
+      hospitalapp: null
+    ports:
+      - mode: ingress
+        target: 8081
+        published: "8001"
+        protocol: tcp
+      - mode: ingress
+        target: 8080
+        protocol: tcp
+      - mode: ingress
+        target: 8081
+        protocol: tcp
+    volumes:
+      - type: bind
+        source: C:\Users\PC\AppData\Roaming/Microsoft/UserSecrets
+        target: /home/app/.microsoft/usersecrets
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Users\PC\AppData\Roaming/ASP.NET/Https
+        target: /home/app/.aspnet/https
+        read_only: true
+        bind:
+          create_host_path: true
+networks:
+  hospitalapp:
+    name: dockercompose7714951822859740336_hospitalapp

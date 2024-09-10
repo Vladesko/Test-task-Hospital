@@ -1,0 +1,31 @@
+
+networks:
+  hospitalapp:
+
+services:
+  hospitaldb:
+    container_name: db-sql-server
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    ports:
+      - 8002:1433
+    environment:
+      - ACCEPT_EULA=Y
+      - MSSQL_SA_PASSWORD=P@ssword135
+    networks:
+      - hospitalapp
+  hospitals.webapi:
+    container_name: Hospital-app
+    image: ${DOCKER_REGISTRY-}hospitalswebapi
+    build:
+      context: .
+      dockerfile: Hospitals.WebApi/Dockerfile
+    ports:
+      - 8001:8081
+    depends_on:
+      - hospitaldb
+    environment: 
+      - DB_HOST=hospitaldb
+      - DB_NAME=HospitalDatabase
+      - DB_SA_PASSWORD=P@ssword135
+    networks:
+      - hospitalapp
